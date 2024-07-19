@@ -3,6 +3,7 @@
 *.csv
 #*[.txt, .csv, .css]
 employee.py
+salary.py
 .env
 !/RES
 !/RES/forms.csv
