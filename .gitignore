@@ -1,0 +1,8 @@
+# Comment here
+#*.txt
+#*.csv
+*[.txt, .csv, .css]
+employee.py
+.env
+!/RES
+!/RES/forms.csv
